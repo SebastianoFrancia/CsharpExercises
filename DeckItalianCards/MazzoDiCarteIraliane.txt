@@ -1,0 +1,45 @@
+Versione Console
+
+Mazzo di Carte Italiane  	(8,9,10) --> le figure
+ -40 Carte
+ -4 Semi
+	-Bastone
+	-Denara
+	-Spada
+	-Coppe
++genera il mazzo
++mescola i mazzo
++estrai la carta
++guarda la carta
++to string
++Shift
+
+ 
+Carta
+	-semi
+	-valore		--> si conforonta con un enum che indca che il valore delle figure 1-7 8,9,10
+	{-image path}
+
+Mazzo
+	-Carte[40]
+	+Mazzo()		--> le carrte sono ordinate nel costruttore
+	+ void Mescolare()
+	+Estrai una carta
+	+ToString
+
+
+Gioco Briscola 2 giocatori
+	-Name
+	-Card[3] mano  //sempre 3
+	-int punteggio = 0
+	+Giocare una carta --> decidere una carta da giocare e togleral dal altra
+	+pescare una carta --> aggungere una carta dalla mano
+
+
+Partiat
+	-giocatore 1
+	-giocatore 2
+	-Mazzo
+	-seme briscola
+	+inizio partita --> distribuire le carte ai giocatori, poi decide la briscola coi è l'ultima che viene estratta cio la settima 7 carta estratta shift carta al ultimo posto 
+	

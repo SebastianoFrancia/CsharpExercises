@@ -1,0 +1,15 @@
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramSwitchesBulbs/SwitchesBulbs/bin/Debug/net7.0/SwitchesBulbs
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramSwitchesBulbs/SwitchesBulbs/bin/Debug/net7.0/SwitchesBulbs.deps.json
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramSwitchesBulbs/SwitchesBulbs/bin/Debug/net7.0/SwitchesBulbs.runtimeconfig.json
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramSwitchesBulbs/SwitchesBulbs/bin/Debug/net7.0/SwitchesBulbs.dll
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramSwitchesBulbs/SwitchesBulbs/bin/Debug/net7.0/SwitchesBulbs.pdb
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramSwitchesBulbs/SwitchesBulbs/obj/Debug/net7.0/SwitchesBulbs.csproj.AssemblyReference.cache
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramSwitchesBulbs/SwitchesBulbs/obj/Debug/net7.0/SwitchesBulbs.GeneratedMSBuildEditorConfig.editorconfig
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramSwitchesBulbs/SwitchesBulbs/obj/Debug/net7.0/SwitchesBulbs.AssemblyInfoInputs.cache
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramSwitchesBulbs/SwitchesBulbs/obj/Debug/net7.0/SwitchesBulbs.AssemblyInfo.cs
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramSwitchesBulbs/SwitchesBulbs/obj/Debug/net7.0/SwitchesBulbs.csproj.CoreCompileInputs.cache
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramSwitchesBulbs/SwitchesBulbs/obj/Debug/net7.0/SwitchesBulbs.dll
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramSwitchesBulbs/SwitchesBulbs/obj/Debug/net7.0/refint/SwitchesBulbs.dll
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramSwitchesBulbs/SwitchesBulbs/obj/Debug/net7.0/SwitchesBulbs.pdb
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramSwitchesBulbs/SwitchesBulbs/obj/Debug/net7.0/SwitchesBulbs.genruntimeconfig.cache
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramSwitchesBulbs/SwitchesBulbs/obj/Debug/net7.0/ref/SwitchesBulbs.dll

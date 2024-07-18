@@ -1,0 +1,15 @@
+/home/xd/Documenti/csharp/Person/bin/Debug/net7.0/Person
+/home/xd/Documenti/csharp/Person/bin/Debug/net7.0/Person.deps.json
+/home/xd/Documenti/csharp/Person/bin/Debug/net7.0/Person.runtimeconfig.json
+/home/xd/Documenti/csharp/Person/bin/Debug/net7.0/Person.dll
+/home/xd/Documenti/csharp/Person/bin/Debug/net7.0/Person.pdb
+/home/xd/Documenti/csharp/Person/obj/Debug/net7.0/Person.csproj.AssemblyReference.cache
+/home/xd/Documenti/csharp/Person/obj/Debug/net7.0/Person.GeneratedMSBuildEditorConfig.editorconfig
+/home/xd/Documenti/csharp/Person/obj/Debug/net7.0/Person.AssemblyInfoInputs.cache
+/home/xd/Documenti/csharp/Person/obj/Debug/net7.0/Person.AssemblyInfo.cs
+/home/xd/Documenti/csharp/Person/obj/Debug/net7.0/Person.csproj.CoreCompileInputs.cache
+/home/xd/Documenti/csharp/Person/obj/Debug/net7.0/Person.dll
+/home/xd/Documenti/csharp/Person/obj/Debug/net7.0/refint/Person.dll
+/home/xd/Documenti/csharp/Person/obj/Debug/net7.0/Person.pdb
+/home/xd/Documenti/csharp/Person/obj/Debug/net7.0/Person.genruntimeconfig.cache
+/home/xd/Documenti/csharp/Person/obj/Debug/net7.0/ref/Person.dll

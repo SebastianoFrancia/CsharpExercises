@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RPeJvSg2DOqSB7B6+vnqHIWjqruUwdzGizMIo8FBdXQCJdzQHX1c7RojYqu+uN+8ujkt1ra65uEK6obFfnW5cw==",
+  "success": true,
+  "projectFilePath": "/home/xd/Documenti/GitHub/CsharpSchool/DeckItalianCards/gioco-di-carte/gioco-di-carte.csproj",
+  "expectedPackageFiles": [
+    "/home/xd/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/home/xd/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.14/microsoft.netcore.app.host.linux-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

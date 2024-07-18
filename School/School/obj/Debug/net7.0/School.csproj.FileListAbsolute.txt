@@ -1,0 +1,15 @@
+/home/potbush/Documenti/GitHub/CsharpSchool/School/School/bin/Debug/net7.0/School
+/home/potbush/Documenti/GitHub/CsharpSchool/School/School/bin/Debug/net7.0/School.deps.json
+/home/potbush/Documenti/GitHub/CsharpSchool/School/School/bin/Debug/net7.0/School.runtimeconfig.json
+/home/potbush/Documenti/GitHub/CsharpSchool/School/School/bin/Debug/net7.0/School.dll
+/home/potbush/Documenti/GitHub/CsharpSchool/School/School/bin/Debug/net7.0/School.pdb
+/home/potbush/Documenti/GitHub/CsharpSchool/School/School/obj/Debug/net7.0/School.csproj.AssemblyReference.cache
+/home/potbush/Documenti/GitHub/CsharpSchool/School/School/obj/Debug/net7.0/School.GeneratedMSBuildEditorConfig.editorconfig
+/home/potbush/Documenti/GitHub/CsharpSchool/School/School/obj/Debug/net7.0/School.AssemblyInfoInputs.cache
+/home/potbush/Documenti/GitHub/CsharpSchool/School/School/obj/Debug/net7.0/School.AssemblyInfo.cs
+/home/potbush/Documenti/GitHub/CsharpSchool/School/School/obj/Debug/net7.0/School.csproj.CoreCompileInputs.cache
+/home/potbush/Documenti/GitHub/CsharpSchool/School/School/obj/Debug/net7.0/School.dll
+/home/potbush/Documenti/GitHub/CsharpSchool/School/School/obj/Debug/net7.0/refint/School.dll
+/home/potbush/Documenti/GitHub/CsharpSchool/School/School/obj/Debug/net7.0/School.pdb
+/home/potbush/Documenti/GitHub/CsharpSchool/School/School/obj/Debug/net7.0/School.genruntimeconfig.cache
+/home/potbush/Documenti/GitHub/CsharpSchool/School/School/obj/Debug/net7.0/ref/School.dll

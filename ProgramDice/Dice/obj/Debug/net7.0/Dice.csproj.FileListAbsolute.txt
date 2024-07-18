@@ -1,0 +1,15 @@
+/home/potbush/Documenti/csharp/Dice/bin/Debug/net7.0/Dice
+/home/potbush/Documenti/csharp/Dice/bin/Debug/net7.0/Dice.deps.json
+/home/potbush/Documenti/csharp/Dice/bin/Debug/net7.0/Dice.runtimeconfig.json
+/home/potbush/Documenti/csharp/Dice/bin/Debug/net7.0/Dice.dll
+/home/potbush/Documenti/csharp/Dice/bin/Debug/net7.0/Dice.pdb
+/home/potbush/Documenti/csharp/Dice/obj/Debug/net7.0/Dice.csproj.AssemblyReference.cache
+/home/potbush/Documenti/csharp/Dice/obj/Debug/net7.0/Dice.GeneratedMSBuildEditorConfig.editorconfig
+/home/potbush/Documenti/csharp/Dice/obj/Debug/net7.0/Dice.AssemblyInfoInputs.cache
+/home/potbush/Documenti/csharp/Dice/obj/Debug/net7.0/Dice.AssemblyInfo.cs
+/home/potbush/Documenti/csharp/Dice/obj/Debug/net7.0/Dice.csproj.CoreCompileInputs.cache
+/home/potbush/Documenti/csharp/Dice/obj/Debug/net7.0/Dice.dll
+/home/potbush/Documenti/csharp/Dice/obj/Debug/net7.0/refint/Dice.dll
+/home/potbush/Documenti/csharp/Dice/obj/Debug/net7.0/Dice.pdb
+/home/potbush/Documenti/csharp/Dice/obj/Debug/net7.0/Dice.genruntimeconfig.cache
+/home/potbush/Documenti/csharp/Dice/obj/Debug/net7.0/ref/Dice.dll

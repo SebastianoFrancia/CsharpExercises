@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dme7+58ViURRhV/ALM8f5gSNJpQEkdB7/RMGRM2mvsVJECFaDd0ikXTGMONtZBxmE+IXr8RunNRDIFSWa9WJiw==",
+  "success": true,
+  "projectFilePath": "/home/potbush/Scaricati/ProgramTimeAppointment/TimeAppointment/TimeAppointment.csproj",
+  "expectedPackageFiles": [
+    "/home/potbush/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.12/microsoft.aspnetcore.app.ref.7.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

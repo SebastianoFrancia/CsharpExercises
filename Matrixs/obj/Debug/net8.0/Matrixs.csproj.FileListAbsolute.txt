@@ -1,0 +1,15 @@
+/home/potbush/Documenti/GitHub/CsharpSchool/Matrixs/bin/Debug/net8.0/Matrixs
+/home/potbush/Documenti/GitHub/CsharpSchool/Matrixs/bin/Debug/net8.0/Matrixs.deps.json
+/home/potbush/Documenti/GitHub/CsharpSchool/Matrixs/bin/Debug/net8.0/Matrixs.runtimeconfig.json
+/home/potbush/Documenti/GitHub/CsharpSchool/Matrixs/bin/Debug/net8.0/Matrixs.dll
+/home/potbush/Documenti/GitHub/CsharpSchool/Matrixs/bin/Debug/net8.0/Matrixs.pdb
+/home/potbush/Documenti/GitHub/CsharpSchool/Matrixs/obj/Debug/net8.0/Matrixs.GeneratedMSBuildEditorConfig.editorconfig
+/home/potbush/Documenti/GitHub/CsharpSchool/Matrixs/obj/Debug/net8.0/Matrixs.AssemblyInfoInputs.cache
+/home/potbush/Documenti/GitHub/CsharpSchool/Matrixs/obj/Debug/net8.0/Matrixs.AssemblyInfo.cs
+/home/potbush/Documenti/GitHub/CsharpSchool/Matrixs/obj/Debug/net8.0/Matrixs.csproj.CoreCompileInputs.cache
+/home/potbush/Documenti/GitHub/CsharpSchool/Matrixs/obj/Debug/net8.0/Matrixs.sourcelink.json
+/home/potbush/Documenti/GitHub/CsharpSchool/Matrixs/obj/Debug/net8.0/Matrixs.dll
+/home/potbush/Documenti/GitHub/CsharpSchool/Matrixs/obj/Debug/net8.0/refint/Matrixs.dll
+/home/potbush/Documenti/GitHub/CsharpSchool/Matrixs/obj/Debug/net8.0/Matrixs.pdb
+/home/potbush/Documenti/GitHub/CsharpSchool/Matrixs/obj/Debug/net8.0/Matrixs.genruntimeconfig.cache
+/home/potbush/Documenti/GitHub/CsharpSchool/Matrixs/obj/Debug/net8.0/ref/Matrixs.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "01w8Ra5+2vxuRFJU+4Gt59Qaq7myJGoEPqEAtsNgQitmHbqNEqGSB6o/joT7evVa+iBGnawwl0Ry7wj4FEMFMQ==",
+  "success": true,
+  "projectFilePath": "/home/potbush/Documenti/GitHub/CsharpSchool/ProductManagement/ProductManagement.csproj",
+  "expectedPackageFiles": [
+    "/home/potbush/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

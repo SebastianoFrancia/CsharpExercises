@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NutGame", "NutGame.csproj", "{726391C5-591F-4851-AA04-766C84B5CCC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NutGameTest", "..\NutGameTest\NutGameTest.csproj", "{4ADDB62F-A33C-41C7-8BC9-DF8A802CF11E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{726391C5-591F-4851-AA04-766C84B5CCC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{726391C5-591F-4851-AA04-766C84B5CCC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{726391C5-591F-4851-AA04-766C84B5CCC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{726391C5-591F-4851-AA04-766C84B5CCC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ADDB62F-A33C-41C7-8BC9-DF8A802CF11E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ADDB62F-A33C-41C7-8BC9-DF8A802CF11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ADDB62F-A33C-41C7-8BC9-DF8A802CF11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ADDB62F-A33C-41C7-8BC9-DF8A802CF11E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A26BDC28-D185-438D-9193-21730BD3807A}
+	EndGlobalSection
+EndGlobal

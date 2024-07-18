@@ -1,0 +1,15 @@
+/home/potbush/Scaricati/ProgramTimeAppointment/TimeAppointment/bin/Debug/net7.0/TimeAppointment
+/home/potbush/Scaricati/ProgramTimeAppointment/TimeAppointment/bin/Debug/net7.0/TimeAppointment.deps.json
+/home/potbush/Scaricati/ProgramTimeAppointment/TimeAppointment/bin/Debug/net7.0/TimeAppointment.runtimeconfig.json
+/home/potbush/Scaricati/ProgramTimeAppointment/TimeAppointment/bin/Debug/net7.0/TimeAppointment.dll
+/home/potbush/Scaricati/ProgramTimeAppointment/TimeAppointment/bin/Debug/net7.0/TimeAppointment.pdb
+/home/potbush/Scaricati/ProgramTimeAppointment/TimeAppointment/obj/Debug/net7.0/TimeAppointment.csproj.AssemblyReference.cache
+/home/potbush/Scaricati/ProgramTimeAppointment/TimeAppointment/obj/Debug/net7.0/TimeAppointment.GeneratedMSBuildEditorConfig.editorconfig
+/home/potbush/Scaricati/ProgramTimeAppointment/TimeAppointment/obj/Debug/net7.0/TimeAppointment.AssemblyInfoInputs.cache
+/home/potbush/Scaricati/ProgramTimeAppointment/TimeAppointment/obj/Debug/net7.0/TimeAppointment.AssemblyInfo.cs
+/home/potbush/Scaricati/ProgramTimeAppointment/TimeAppointment/obj/Debug/net7.0/TimeAppointment.csproj.CoreCompileInputs.cache
+/home/potbush/Scaricati/ProgramTimeAppointment/TimeAppointment/obj/Debug/net7.0/TimeAppointment.dll
+/home/potbush/Scaricati/ProgramTimeAppointment/TimeAppointment/obj/Debug/net7.0/refint/TimeAppointment.dll
+/home/potbush/Scaricati/ProgramTimeAppointment/TimeAppointment/obj/Debug/net7.0/TimeAppointment.pdb
+/home/potbush/Scaricati/ProgramTimeAppointment/TimeAppointment/obj/Debug/net7.0/TimeAppointment.genruntimeconfig.cache
+/home/potbush/Scaricati/ProgramTimeAppointment/TimeAppointment/obj/Debug/net7.0/ref/TimeAppointment.dll

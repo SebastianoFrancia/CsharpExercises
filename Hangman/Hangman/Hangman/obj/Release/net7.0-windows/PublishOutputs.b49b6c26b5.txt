@@ -1,0 +1,9 @@
+C:\Users\xd\Desktop\distribuited folder\Source\image\Hangman\stand.png
+C:\Users\xd\Desktop\distribuited folder\Source\image\Background.jpg
+C:\Users\xd\Desktop\distribuited folder\Source\image\Hangman\had.png
+C:\Users\xd\Desktop\distribuited folder\Source\image\Hangman\stick.png
+C:\Users\xd\Desktop\distribuited folder\Hangman.exe
+C:\Users\xd\Desktop\distribuited folder\Hangman.dll
+C:\Users\xd\Desktop\distribuited folder\Hangman.deps.json
+C:\Users\xd\Desktop\distribuited folder\Hangman.runtimeconfig.json
+C:\Users\xd\Desktop\distribuited folder\Hangman.pdb

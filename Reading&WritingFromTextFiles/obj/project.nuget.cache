@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mgWR+Wjcy/WXFnPz7e8BTG/mCYmE6csTV72Fcl6xAWmHC7IiTznlkCnFDFgWVBhQHZDQM5kkhSSkvOJ0IGhqwQ==",
+  "success": true,
+  "projectFilePath": "/home/potbush/Documenti/GitHub/CsharpSchool/Reading&WritingFromTextFiles/Reading&WritingFromTextFiles.csproj",
+  "expectedPackageFiles": [
+    "/home/potbush/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SXBxg7fi6N1jVBprUyqL5QQhK8wD1T8S3DwmlckpFRWtdLS7DMGoTMwOrmYvw3iBJxxRmMUKkhFWM/rCSyqjRQ==",
+  "success": true,
+  "projectFilePath": "/home/potbush/Scaricati/PianoCartesiano/PianoCartesiano.csproj",
+  "expectedPackageFiles": [
+    "/home/potbush/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "po/HfWsnM4yxyEwF3GgZ4DSVGr7ICrZ52lYX3L45vujRijcqgPOkgl1H8On7tc3cNUSAA92fFtHPQy+npsWlwg==",
+  "success": true,
+  "projectFilePath": "/home/potbush/Documenti/GitHub/CsharpSchool/ProgramPuntoSegmentoCerchio/PuntoSegmentoCerchio/PuntoSegmentoCerchio.csproj",
+  "expectedPackageFiles": [
+    "/home/potbush/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

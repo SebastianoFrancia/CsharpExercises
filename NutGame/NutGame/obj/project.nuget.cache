@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6vPb3rZSJ/5Ni/GZX3EQ1P0fLT9B4X92WlIoTk5vOZA/bNQL+7UE2kYLGe6qzEggBk1eMjiF3FTqCI7643OC1g==",
+  "success": true,
+  "projectFilePath": "/home/potbush/Documenti/csharp/NutGame/NutGame/NutGame/NutGame.csproj",
+  "expectedPackageFiles": [
+    "/home/potbush/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KTgkpgKVkMGu5Eu37eX/4rQmk/MVX+QhzqcZtLqBMajWawlyyokl6rUwg3itgGSEZ1rbIz3XC6kjqf3Lc97yVg==",
+  "success": true,
+  "projectFilePath": "/home/potbush/Documenti/GitHub/CsharpSchool/School/School/School.csproj",
+  "expectedPackageFiles": [
+    "/home/potbush/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

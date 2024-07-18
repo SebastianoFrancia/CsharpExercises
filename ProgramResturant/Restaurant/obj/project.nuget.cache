@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2LF1neK/OlOwSEK5UmieUTdVqPTCp7DSVvbI6Y0ZhBYy2sIPQUfMAZakgZqFRW3TMPxhE0qvEhh5stHV0G9mCw==",
+  "success": true,
+  "projectFilePath": "/home/potbush/Documenti/GitHub/CsharpSchool/ProgramResturant/Restaurant/Restaurant.csproj",
+  "expectedPackageFiles": [
+    "/home/potbush/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

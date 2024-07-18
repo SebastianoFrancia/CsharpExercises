@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jFbpyqTXHY0YVGbKIv4cdPTHLVQTyjHBOR7xsfqXl2kD/xSEuQ2GgjEtJDHcD0sQmdi6BFmRfzErffI6p63G2Q==",
+  "success": true,
+  "projectFilePath": "/home/potbush/Scrivania/EsercizioStringhe/Esercizio1/Esercizio1.csproj",
+  "expectedPackageFiles": [
+    "/home/potbush/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

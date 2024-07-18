@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "91TuW038iYzkc+tDEDtIC789nwL3BvMmTndKtSfazAYyoYAaUn0OHzJ9l24CpZSVgGs6MCQtmO1XW+5B5zqW+g==",
+  "success": true,
+  "projectFilePath": "/home/potbush/Documenti/GitHub/CsharpSchool/MorraCinese/MorraCinese/MorraCinese.csproj",
+  "expectedPackageFiles": [
+    "/home/potbush/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

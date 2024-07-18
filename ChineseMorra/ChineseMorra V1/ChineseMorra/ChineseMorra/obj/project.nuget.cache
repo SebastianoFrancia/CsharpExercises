@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "haITqV+EOgqVtvkZfMbSzkuHcFCxYFFNYGX5XzJ5sxguzIqbQ8hPXIziS57PSX8oStYlZ4uL3o8x4wuemavdow==",
+  "success": true,
+  "projectFilePath": "/home/xd/Documenti/GitHub/CsharpSchool/ChineseMorra/ChineseMorra/ChineseMorra/ChineseMorra.csproj",
+  "expectedPackageFiles": [
+    "/home/xd/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

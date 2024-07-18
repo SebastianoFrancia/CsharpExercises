@@ -1,0 +1,15 @@
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramResturant/Restaurant/bin/Debug/net7.0/Restaurant
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramResturant/Restaurant/bin/Debug/net7.0/Restaurant.deps.json
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramResturant/Restaurant/bin/Debug/net7.0/Restaurant.runtimeconfig.json
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramResturant/Restaurant/bin/Debug/net7.0/Restaurant.dll
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramResturant/Restaurant/bin/Debug/net7.0/Restaurant.pdb
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramResturant/Restaurant/obj/Debug/net7.0/Restaurant.csproj.AssemblyReference.cache
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramResturant/Restaurant/obj/Debug/net7.0/Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramResturant/Restaurant/obj/Debug/net7.0/Restaurant.AssemblyInfoInputs.cache
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramResturant/Restaurant/obj/Debug/net7.0/Restaurant.AssemblyInfo.cs
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramResturant/Restaurant/obj/Debug/net7.0/Restaurant.csproj.CoreCompileInputs.cache
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramResturant/Restaurant/obj/Debug/net7.0/Restaurant.dll
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramResturant/Restaurant/obj/Debug/net7.0/refint/Restaurant.dll
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramResturant/Restaurant/obj/Debug/net7.0/Restaurant.pdb
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramResturant/Restaurant/obj/Debug/net7.0/Restaurant.genruntimeconfig.cache
+/home/potbush/Documenti/GitHub/CsharpSchool/ProgramResturant/Restaurant/obj/Debug/net7.0/ref/Restaurant.dll

@@ -1,0 +1,15 @@
+/home/potbush/Scrivania/EsercizioStringhe/Esercizio1/obj/Debug/net7.0/Esercizio1.csproj.AssemblyReference.cache
+/home/potbush/Scrivania/EsercizioStringhe/Esercizio1/obj/Debug/net7.0/Esercizio1.GeneratedMSBuildEditorConfig.editorconfig
+/home/potbush/Scrivania/EsercizioStringhe/Esercizio1/obj/Debug/net7.0/Esercizio1.AssemblyInfoInputs.cache
+/home/potbush/Scrivania/EsercizioStringhe/Esercizio1/obj/Debug/net7.0/Esercizio1.AssemblyInfo.cs
+/home/potbush/Scrivania/EsercizioStringhe/Esercizio1/obj/Debug/net7.0/Esercizio1.csproj.CoreCompileInputs.cache
+/home/potbush/Scrivania/EsercizioStringhe/Esercizio1/bin/Debug/net7.0/Esercizio1
+/home/potbush/Scrivania/EsercizioStringhe/Esercizio1/bin/Debug/net7.0/Esercizio1.deps.json
+/home/potbush/Scrivania/EsercizioStringhe/Esercizio1/bin/Debug/net7.0/Esercizio1.runtimeconfig.json
+/home/potbush/Scrivania/EsercizioStringhe/Esercizio1/bin/Debug/net7.0/Esercizio1.dll
+/home/potbush/Scrivania/EsercizioStringhe/Esercizio1/bin/Debug/net7.0/Esercizio1.pdb
+/home/potbush/Scrivania/EsercizioStringhe/Esercizio1/obj/Debug/net7.0/Esercizio1.dll
+/home/potbush/Scrivania/EsercizioStringhe/Esercizio1/obj/Debug/net7.0/refint/Esercizio1.dll
+/home/potbush/Scrivania/EsercizioStringhe/Esercizio1/obj/Debug/net7.0/Esercizio1.pdb
+/home/potbush/Scrivania/EsercizioStringhe/Esercizio1/obj/Debug/net7.0/Esercizio1.genruntimeconfig.cache
+/home/potbush/Scrivania/EsercizioStringhe/Esercizio1/obj/Debug/net7.0/ref/Esercizio1.dll

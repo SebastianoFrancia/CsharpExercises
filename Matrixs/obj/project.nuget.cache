@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JFVRkKiQI+m7UBH06a9FJ9lNrLlqxIhCQWQevZfoA52xC0uHVjGhK3TrlwFBw3vsyu7TVwEDQFSs3oarojegyw==",
+  "success": true,
+  "projectFilePath": "/home/potbush/Documenti/GitHub/CsharpSchool/Matrixs/Matrixs.csproj",
+  "expectedPackageFiles": [
+    "/home/potbush/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

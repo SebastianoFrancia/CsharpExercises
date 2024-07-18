@@ -1,0 +1,15 @@
+/home/potbush/Documenti/GitHub/CsharpSchool/Reading&WritingFromTextFiles/bin/Debug/net7.0/Reading&WritingFromTextFiles
+/home/potbush/Documenti/GitHub/CsharpSchool/Reading&WritingFromTextFiles/bin/Debug/net7.0/Reading&WritingFromTextFiles.deps.json
+/home/potbush/Documenti/GitHub/CsharpSchool/Reading&WritingFromTextFiles/bin/Debug/net7.0/Reading&WritingFromTextFiles.runtimeconfig.json
+/home/potbush/Documenti/GitHub/CsharpSchool/Reading&WritingFromTextFiles/bin/Debug/net7.0/Reading&WritingFromTextFiles.dll
+/home/potbush/Documenti/GitHub/CsharpSchool/Reading&WritingFromTextFiles/bin/Debug/net7.0/Reading&WritingFromTextFiles.pdb
+/home/potbush/Documenti/GitHub/CsharpSchool/Reading&WritingFromTextFiles/obj/Debug/net7.0/Reading&WritingFromTextFiles.csproj.AssemblyReference.cache
+/home/potbush/Documenti/GitHub/CsharpSchool/Reading&WritingFromTextFiles/obj/Debug/net7.0/Reading&WritingFromTextFiles.GeneratedMSBuildEditorConfig.editorconfig
+/home/potbush/Documenti/GitHub/CsharpSchool/Reading&WritingFromTextFiles/obj/Debug/net7.0/Reading&WritingFromTextFiles.AssemblyInfoInputs.cache
+/home/potbush/Documenti/GitHub/CsharpSchool/Reading&WritingFromTextFiles/obj/Debug/net7.0/Reading&WritingFromTextFiles.AssemblyInfo.cs
+/home/potbush/Documenti/GitHub/CsharpSchool/Reading&WritingFromTextFiles/obj/Debug/net7.0/Reading&WritingFromTextFiles.csproj.CoreCompileInputs.cache
+/home/potbush/Documenti/GitHub/CsharpSchool/Reading&WritingFromTextFiles/obj/Debug/net7.0/Reading&WritingFromTextFiles.dll
+/home/potbush/Documenti/GitHub/CsharpSchool/Reading&WritingFromTextFiles/obj/Debug/net7.0/refint/Reading&WritingFromTextFiles.dll
+/home/potbush/Documenti/GitHub/CsharpSchool/Reading&WritingFromTextFiles/obj/Debug/net7.0/Reading&WritingFromTextFiles.pdb
+/home/potbush/Documenti/GitHub/CsharpSchool/Reading&WritingFromTextFiles/obj/Debug/net7.0/Reading&WritingFromTextFiles.genruntimeconfig.cache
+/home/potbush/Documenti/GitHub/CsharpSchool/Reading&WritingFromTextFiles/obj/Debug/net7.0/ref/Reading&WritingFromTextFiles.dll

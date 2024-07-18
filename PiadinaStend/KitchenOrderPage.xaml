@@ -1,0 +1,29 @@
+﻿<Page x:Class="PiadinaStend.KitchenOrderPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PiadinaStend"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="KitchenProductPage">
+    <Canvas Background="White">
+        <ListBox x:Name="lbxMenu" Canvas.Left="29" Canvas.Top="61" Height="300" Width="270" HorizontalAlignment="Center" VerticalAlignment="Top" SelectedIndex="0" />
+        <Button x:Name="btnAgiungiOrdine" Content="Aggiungi" Click="btnAddOrder_Click" Canvas.Left="333" Canvas.Top="131" Width="54" Height="21" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <Button x:Name="btnRimuoviOrdine" Content="Rimuovi" Canvas.Left="333" Canvas.Top="167" Width="54" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top" Click="btnemuveProduct_Click"/>
+        <ListBox x:Name="lbxOrder" Height="300" Canvas.Left="428" Canvas.Top="61" Width="270" HorizontalAlignment="Center" VerticalAlignment="Top" SelectedIndex="0" />
+        <Button x:Name="btnConfirmOrder" Content="Conferma l'ordine" Canvas.Left="568" Canvas.Top="377" Width="130" Height="39" HorizontalAlignment="Left" VerticalAlignment="Center" Click="btnConfirmOrder_Click"/>
+        <Label x:Name="lblAmmount" Content="" Height="43" Canvas.Left="428" Canvas.Top="375" Width="135" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <Label Content="Menu:" Height="42" Canvas.Left="29" Canvas.Top="14" Width="176" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="22"/>
+        <Label x:Name="lblOrder" Content="Ordine:" Height="42" Canvas.Left="428" Canvas.Top="14" Width="208" FontSize="22"/>
+        <Button x:Name="btnConfirmEdit" Content="Conferma le modifiche" Canvas.Left="568" Canvas.Top="377" Width="130" Height="39" HorizontalAlignment="Left" VerticalAlignment="Center" Click="btnConfirmEdit_Click" Visibility="Collapsed"/>
+
+
+<Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="8"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+    </Canvas>
+</Page>

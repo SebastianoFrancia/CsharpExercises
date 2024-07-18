@@ -1,0 +1,74 @@
+C:/Users/chiara.fusaroli/source/repos/gioco-di-carte/bin/Debug/net7.0/gioco-di-carte.exe
+C:/Users/chiara.fusaroli/source/repos/gioco-di-carte/bin/Debug/net7.0/gioco-di-carte.deps.json
+C:/Users/chiara.fusaroli/source/repos/gioco-di-carte/bin/Debug/net7.0/gioco-di-carte.runtimeconfig.json
+C:/Users/chiara.fusaroli/source/repos/gioco-di-carte/bin/Debug/net7.0/gioco-di-carte.dll
+C:/Users/chiara.fusaroli/source/repos/gioco-di-carte/bin/Debug/net7.0/gioco-di-carte.pdb
+C:/Users/chiara.fusaroli/source/repos/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.csproj.AssemblyReference.cache
+C:/Users/chiara.fusaroli/source/repos/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/chiara.fusaroli/source/repos/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.AssemblyInfoInputs.cache
+C:/Users/chiara.fusaroli/source/repos/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.AssemblyInfo.cs
+C:/Users/chiara.fusaroli/source/repos/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.csproj.CoreCompileInputs.cache
+C:/Users/chiara.fusaroli/source/repos/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.dll
+C:/Users/chiara.fusaroli/source/repos/gioco-di-carte/obj/Debug/net7.0/refint/gioco-di-carte.dll
+C:/Users/chiara.fusaroli/source/repos/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.pdb
+C:/Users/chiara.fusaroli/source/repos/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.genruntimeconfig.cache
+C:/Users/chiara.fusaroli/source/repos/gioco-di-carte/obj/Debug/net7.0/ref/gioco-di-carte.dll
+C:/Users/utrente/Documents/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/bin/Debug/net7.0/gioco-di-carte.exe
+C:/Users/utrente/Documents/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/bin/Debug/net7.0/gioco-di-carte.deps.json
+C:/Users/utrente/Documents/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/bin/Debug/net7.0/gioco-di-carte.runtimeconfig.json
+C:/Users/utrente/Documents/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/bin/Debug/net7.0/gioco-di-carte.dll
+C:/Users/utrente/Documents/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/bin/Debug/net7.0/gioco-di-carte.pdb
+C:/Users/utrente/Documents/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/utrente/Documents/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.AssemblyInfoInputs.cache
+C:/Users/utrente/Documents/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.AssemblyInfo.cs
+C:/Users/utrente/Documents/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.csproj.CoreCompileInputs.cache
+C:/Users/utrente/Documents/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.dll
+C:/Users/utrente/Documents/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/obj/Debug/net7.0/refint/gioco-di-carte.dll
+C:/Users/utrente/Documents/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.pdb
+C:/Users/utrente/Documents/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.genruntimeconfig.cache
+C:/Users/utrente/Documents/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/obj/Debug/net7.0/ref/gioco-di-carte.dll
+C:/Users/giorgia.severi/Downloads/briscola/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.csproj.AssemblyReference.cache
+C:/Users/giorgia.severi/Downloads/briscola/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/giorgia.severi/Downloads/briscola/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.AssemblyInfoInputs.cache
+C:/Users/giorgia.severi/Downloads/briscola/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.AssemblyInfo.cs
+C:/Users/giorgia.severi/Downloads/briscola/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.csproj.CoreCompileInputs.cache
+C:/Users/giorgia.severi/Downloads/briscola/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.dll
+C:/Users/giorgia.severi/Downloads/briscola/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/obj/Debug/net7.0/refint/gioco-di-carte.dll
+C:/Users/giorgia.severi/Downloads/briscola/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.pdb
+C:/Users/giorgia.severi/Downloads/briscola/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/bin/Debug/net7.0/gioco-di-carte.exe
+C:/Users/giorgia.severi/Downloads/briscola/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/bin/Debug/net7.0/gioco-di-carte.deps.json
+C:/Users/giorgia.severi/Downloads/briscola/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/bin/Debug/net7.0/gioco-di-carte.runtimeconfig.json
+C:/Users/giorgia.severi/Downloads/briscola/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/bin/Debug/net7.0/gioco-di-carte.dll
+C:/Users/giorgia.severi/Downloads/briscola/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/bin/Debug/net7.0/gioco-di-carte.pdb
+C:/Users/giorgia.severi/Downloads/briscola/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.genruntimeconfig.cache
+C:/Users/giorgia.severi/Downloads/briscola/gioco-di-cartesii/gioco-di-carte (1)/gioco-di-carte/obj/Debug/net7.0/ref/gioco-di-carte.dll
+C:/Users/sebastiano.francia/Documents/gioco-di-carte/bin/Debug/net7.0/gioco-di-carte.exe
+C:/Users/sebastiano.francia/Documents/gioco-di-carte/bin/Debug/net7.0/gioco-di-carte.deps.json
+C:/Users/sebastiano.francia/Documents/gioco-di-carte/bin/Debug/net7.0/gioco-di-carte.runtimeconfig.json
+C:/Users/sebastiano.francia/Documents/gioco-di-carte/bin/Debug/net7.0/gioco-di-carte.dll
+C:/Users/sebastiano.francia/Documents/gioco-di-carte/bin/Debug/net7.0/gioco-di-carte.pdb
+C:/Users/sebastiano.francia/Documents/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.csproj.AssemblyReference.cache
+C:/Users/sebastiano.francia/Documents/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/sebastiano.francia/Documents/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.AssemblyInfoInputs.cache
+C:/Users/sebastiano.francia/Documents/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.AssemblyInfo.cs
+C:/Users/sebastiano.francia/Documents/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.csproj.CoreCompileInputs.cache
+C:/Users/sebastiano.francia/Documents/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.dll
+C:/Users/sebastiano.francia/Documents/gioco-di-carte/obj/Debug/net7.0/refint/gioco-di-carte.dll
+C:/Users/sebastiano.francia/Documents/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.pdb
+C:/Users/sebastiano.francia/Documents/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.genruntimeconfig.cache
+C:/Users/sebastiano.francia/Documents/gioco-di-carte/obj/Debug/net7.0/ref/gioco-di-carte.dll
+/home/xd/Documenti/GitHub/CsharpSchool/DeckItalianCards/gioco-di-carte/bin/Debug/net7.0/gioco-di-carte
+/home/xd/Documenti/GitHub/CsharpSchool/DeckItalianCards/gioco-di-carte/bin/Debug/net7.0/gioco-di-carte.deps.json
+/home/xd/Documenti/GitHub/CsharpSchool/DeckItalianCards/gioco-di-carte/bin/Debug/net7.0/gioco-di-carte.runtimeconfig.json
+/home/xd/Documenti/GitHub/CsharpSchool/DeckItalianCards/gioco-di-carte/bin/Debug/net7.0/gioco-di-carte.dll
+/home/xd/Documenti/GitHub/CsharpSchool/DeckItalianCards/gioco-di-carte/bin/Debug/net7.0/gioco-di-carte.pdb
+/home/xd/Documenti/GitHub/CsharpSchool/DeckItalianCards/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.GeneratedMSBuildEditorConfig.editorconfig
+/home/xd/Documenti/GitHub/CsharpSchool/DeckItalianCards/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.AssemblyInfoInputs.cache
+/home/xd/Documenti/GitHub/CsharpSchool/DeckItalianCards/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.AssemblyInfo.cs
+/home/xd/Documenti/GitHub/CsharpSchool/DeckItalianCards/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.csproj.CoreCompileInputs.cache
+/home/xd/Documenti/GitHub/CsharpSchool/DeckItalianCards/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.sourcelink.json
+/home/xd/Documenti/GitHub/CsharpSchool/DeckItalianCards/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.dll
+/home/xd/Documenti/GitHub/CsharpSchool/DeckItalianCards/gioco-di-carte/obj/Debug/net7.0/refint/gioco-di-carte.dll
+/home/xd/Documenti/GitHub/CsharpSchool/DeckItalianCards/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.pdb
+/home/xd/Documenti/GitHub/CsharpSchool/DeckItalianCards/gioco-di-carte/obj/Debug/net7.0/gioco-di-carte.genruntimeconfig.cache
+/home/xd/Documenti/GitHub/CsharpSchool/DeckItalianCards/gioco-di-carte/obj/Debug/net7.0/ref/gioco-di-carte.dll

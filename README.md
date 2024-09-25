@@ -31,3 +31,5 @@ an Archive of some C# exercises
 - ProgramPuntoSegmentoCerchio
 - ProgramTimeAppointment
 - School
+- GattileWPF
+- SessioniAllenamento

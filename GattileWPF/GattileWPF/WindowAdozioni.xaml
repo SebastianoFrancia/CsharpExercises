@@ -1,0 +1,42 @@
+﻿<Window x:Class="GattileWPF.WindowAdozioni"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GattileWPF"
+        mc:Ignorable="d"
+        Title="WindowAdozioni" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="lbxAdozioni" HorizontalAlignment="Left" Height="379" Margin="10,22,0,0" VerticalAlignment="Top" Width="255" SelectionChanged="lbxGatti_SelectionChanged"/>
+        <Button x:Name="btnAggitnalbx" Content="" HorizontalAlignment="Left" Height="32" Margin="281,369,0,0" VerticalAlignment="Top" Width="32" RenderTransformOrigin="0.5,0.5" Padding="0,0,-2,0" BorderThickness="0,0,0,0" Click="btnAggitnalbx_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Background>
+                <ImageBrush ImageSource="/reload.ico"/>
+            </Button.Background>
+        </Button>
+        <Label Content="aggiorna lista" HorizontalAlignment="Left" VerticalContentAlignment="Center" Height="32" Margin="318,367,0,0" VerticalAlignment="Top" Width="152" FontSize="16"/>
+        <Label x:Name="lblID" Content="Id:" HorizontalAlignment="Left" VerticalContentAlignment="Center" Margin="366,34,0,0" VerticalAlignment="Top" Width="144" Height="31"/>
+        <Label x:Name="lblNomeGatto" Content="Nome:" HorizontalAlignment="Left" VerticalContentAlignment="Center" Margin="289,71,0,0" VerticalAlignment="Top" Width="144" Height="31"/>
+        <Label x:Name="lblRazza" Content="Razza:" HorizontalAlignment="Left" VerticalContentAlignment="Center" Margin="444,71,0,0" VerticalAlignment="Top" Width="144" Height="31"/>
+        <Label x:Name="lblSesso" Content="Sesso:" HorizontalAlignment="Left" VerticalContentAlignment="Center" Margin="599,71,0,0" VerticalAlignment="Top" Width="144" Height="31"/>
+        <Label x:Name="lblDataArrivo" Content="Data Arrivo:" HorizontalAlignment="Left" VerticalContentAlignment="Center" Margin="289,112,0,0" VerticalAlignment="Top" Width="144" Height="31"/>
+        <Label x:Name="lblDataUscita" Content="Data Uscita:" HorizontalAlignment="Left" VerticalContentAlignment="Center" Margin="444,112,0,0" VerticalAlignment="Top" Width="144" Height="31"/>
+        <Label x:Name="lblDataNascita" Content="Data Nascita:" HorizontalAlignment="Left" VerticalContentAlignment="Center" Margin="599,112,0,0" VerticalAlignment="Top" Width="144" Height="31"/>
+        <Label x:Name="lblDescrizione" Content="Descrizione: " HorizontalAlignment="Left" VerticalContentAlignment="Top" Margin="289,155,0,0" VerticalAlignment="Top" Width="454" Height="62"/>
+        <Label x:Name="lblNomeAdottante" Content="Nome:" HorizontalAlignment="Left" VerticalContentAlignment="Center" Margin="289,245,0,0" VerticalAlignment="Top" Width="144" Height="33"/>
+        <Label x:Name="lblCognome" Content="Cognome:" HorizontalAlignment="Left" VerticalContentAlignment="Center" Margin="448,245,0,0" VerticalAlignment="Top" Width="144" Height="33"/>
+        <Label x:Name="lblTellefono" Content="Telefono:" HorizontalAlignment="Left" VerticalContentAlignment="Center" Margin="289,320,0,0" VerticalAlignment="Top" Width="303" Height="32"/>
+        <Label x:Name="lblIndirizzo" Content="Indirizzo:" HorizontalAlignment="Left" VerticalContentAlignment="Center" Margin="289,282,0,0" VerticalAlignment="Top" Width="303" Height="32"/>
+        <Label Content="Gatto" HorizontalAlignment="Left" Height="38" Margin="289,28,0,0" VerticalAlignment="Top" Width="72" FontSize="20"/>
+        <Label Content="Adottante" HorizontalAlignment="Left" Height="32" Margin="289,212,0,0" VerticalAlignment="Top" Width="111" FontSize="20"/>
+        <Label x:Name="lblDataAdozione" Content="Data Adozione:" HorizontalAlignment="Left" VerticalContentAlignment="Center" Margin="515,35,0,0" VerticalAlignment="Top" Width="228" Height="31"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\XD\\Desktop\\GattileWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E7C03-E0DD-44FA-83EE-43DC5F89814A}|GattileLIB\\GattileLIB.csproj|c:\\users\\xd\\desktop\\gattilewpf\\gattilelib\\gattile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E7C03-E0DD-44FA-83EE-43DC5F89814A}|GattileLIB\\GattileLIB.csproj|solutionrelative:gattilelib\\gattile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E7C03-E0DD-44FA-83EE-43DC5F89814A}|GattileLIB\\GattileLIB.csproj|c:\\users\\xd\\desktop\\gattilewpf\\gattilelib\\scrivifile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E7C03-E0DD-44FA-83EE-43DC5F89814A}|GattileLIB\\GattileLIB.csproj|solutionrelative:gattilelib\\scrivifile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|c:\\users\\xd\\desktop\\gattilewpf\\gattilewpf\\windowadozionefallita.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|solutionrelative:gattilewpf\\windowadozionefallita.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|c:\\users\\xd\\desktop\\gattilewpf\\gattilewpf\\windowadozionefallita.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|solutionrelative:gattilewpf\\windowadozionefallita.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|c:\\users\\xd\\desktop\\gattilewpf\\gattilewpf\\windowaggiungiadozione.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|solutionrelative:gattilewpf\\windowaggiungiadozione.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E7C03-E0DD-44FA-83EE-43DC5F89814A}|GattileLIB\\GattileLIB.csproj|c:\\users\\xd\\desktop\\gattilewpf\\gattilelib\\gatto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E7C03-E0DD-44FA-83EE-43DC5F89814A}|GattileLIB\\GattileLIB.csproj|solutionrelative:gattilelib\\gatto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E7C03-E0DD-44FA-83EE-43DC5F89814A}|GattileLIB\\GattileLIB.csproj|c:\\users\\xd\\desktop\\gattilewpf\\gattilelib\\leggifile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E7C03-E0DD-44FA-83EE-43DC5F89814A}|GattileLIB\\GattileLIB.csproj|solutionrelative:gattilelib\\leggifile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|c:\\users\\xd\\desktop\\gattilewpf\\gattilewpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|solutionrelative:gattilewpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|c:\\users\\xd\\desktop\\gattilewpf\\gattilewpf\\windowaggiungigatto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|solutionrelative:gattilewpf\\windowaggiungigatto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|c:\\users\\xd\\desktop\\gattilewpf\\gattilewpf\\windowaggiungiadottante.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|solutionrelative:gattilewpf\\windowaggiungiadottante.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|c:\\users\\xd\\desktop\\gattilewpf\\gattilewpf\\windowadozioni.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|solutionrelative:gattilewpf\\windowadozioni.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|c:\\users\\xd\\desktop\\gattilewpf\\gattilewpf\\windowadottanti.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|solutionrelative:gattilewpf\\windowadottanti.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E7C03-E0DD-44FA-83EE-43DC5F89814A}|GattileLIB\\GattileLIB.csproj|c:\\users\\xd\\desktop\\gattilewpf\\gattilelib\\adozione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E7C03-E0DD-44FA-83EE-43DC5F89814A}|GattileLIB\\GattileLIB.csproj|solutionrelative:gattilelib\\adozione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E7C03-E0DD-44FA-83EE-43DC5F89814A}|GattileLIB\\GattileLIB.csproj|c:\\users\\xd\\desktop\\gattilewpf\\gattilelib\\adottante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E7C03-E0DD-44FA-83EE-43DC5F89814A}|GattileLIB\\GattileLIB.csproj|solutionrelative:gattilelib\\adottante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E7C03-E0DD-44FA-83EE-43DC5F89814A}|GattileLIB\\GattileLIB.csproj|c:\\users\\xd\\desktop\\gattilewpf\\gattilelib\\stat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E7C03-E0DD-44FA-83EE-43DC5F89814A}|GattileLIB\\GattileLIB.csproj|solutionrelative:gattilelib\\stat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|c:\\users\\xd\\desktop\\gattilewpf\\gattilewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|solutionrelative:gattilewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|c:\\users\\xd\\desktop\\gattilewpf\\gattilewpf\\windowadottanti.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|solutionrelative:gattilewpf\\windowadottanti.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|c:\\users\\xd\\desktop\\gattilewpf\\gattilewpf\\windowaggiungiadozione.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|solutionrelative:gattilewpf\\windowaggiungiadozione.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|c:\\users\\xd\\desktop\\gattilewpf\\gattilewpf\\windowadozioni.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|solutionrelative:gattilewpf\\windowadozioni.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|c:\\users\\xd\\desktop\\gattilewpf\\gattilewpf\\windowaggiungiadottante.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|solutionrelative:gattilewpf\\windowaggiungiadottante.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|c:\\users\\xd\\desktop\\gattilewpf\\gattilewpf\\windowaggiungigatto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|solutionrelative:gattilewpf\\windowaggiungigatto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|c:\\users\\xd\\desktop\\gattilewpf\\gattilewpf\\windowgatti.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{72F9DA4C-A59B-4D87-8902-FC87323D2966}|GattileWPF\\GattileWPF.csproj|solutionrelative:gattilewpf\\windowgatti.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 213,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WindowAggiungiGatto.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\WindowAggiungiGatto.xaml.cs",
+              "RelativeDocumentMoniker": "GattileWPF\\WindowAggiungiGatto.xaml.cs",
+              "ToolTip": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\WindowAggiungiGatto.xaml.cs",
+              "RelativeToolTip": "GattileWPF\\WindowAggiungiGatto.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAApwBgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:18:16.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeggiFile.cs",
+              "DocumentMoniker": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileLIB\\LeggiFile.cs",
+              "RelativeDocumentMoniker": "GattileLIB\\LeggiFile.cs",
+              "ToolTip": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileLIB\\LeggiFile.cs",
+              "RelativeToolTip": "GattileLIB\\LeggiFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:58:49.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gattile.cs",
+              "DocumentMoniker": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileLIB\\Gattile.cs",
+              "RelativeDocumentMoniker": "GattileLIB\\Gattile.cs",
+              "ToolTip": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileLIB\\Gattile.cs",
+              "RelativeToolTip": "GattileLIB\\Gattile.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:35:36.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GattileWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GattileWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAASwBoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:04:09.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WindowAdozioneFallita.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\WindowAdozioneFallita.xaml.cs",
+              "RelativeDocumentMoniker": "GattileWPF\\WindowAdozioneFallita.xaml.cs",
+              "ToolTip": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\WindowAdozioneFallita.xaml.cs",
+              "RelativeToolTip": "GattileWPF\\WindowAdozioneFallita.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAApwCUAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:18:36.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScriviFile.cs",
+              "DocumentMoniker": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileLIB\\ScriviFile.cs",
+              "RelativeDocumentMoniker": "GattileLIB\\ScriviFile.cs",
+              "ToolTip": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileLIB\\ScriviFile.cs",
+              "RelativeToolTip": "GattileLIB\\ScriviFile.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:10:18.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gatto.cs",
+              "DocumentMoniker": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileLIB\\Gatto.cs",
+              "RelativeDocumentMoniker": "GattileLIB\\Gatto.cs",
+              "ToolTip": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileLIB\\Gatto.cs",
+              "RelativeToolTip": "GattileLIB\\Gatto.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAEwIMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:41:44.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WindowAggiungiAdozione.xaml",
+              "DocumentMoniker": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\WindowAggiungiAdozione.xaml",
+              "RelativeDocumentMoniker": "GattileWPF\\WindowAggiungiAdozione.xaml",
+              "ToolTip": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\WindowAggiungiAdozione.xaml",
+              "RelativeToolTip": "GattileWPF\\WindowAggiungiAdozione.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-19T16:14:57.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WindowAdozioneFallita.xaml",
+              "DocumentMoniker": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\WindowAdozioneFallita.xaml",
+              "RelativeDocumentMoniker": "GattileWPF\\WindowAdozioneFallita.xaml",
+              "ToolTip": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\WindowAdozioneFallita.xaml",
+              "RelativeToolTip": "GattileWPF\\WindowAdozioneFallita.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-19T17:16:29.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WindowAggiungiAdottante.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\WindowAggiungiAdottante.xaml.cs",
+              "RelativeDocumentMoniker": "GattileWPF\\WindowAggiungiAdottante.xaml.cs",
+              "ToolTip": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\WindowAggiungiAdottante.xaml.cs",
+              "RelativeToolTip": "GattileWPF\\WindowAggiungiAdottante.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAApwBgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:46:39.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WindowAdozioni.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\WindowAdozioni.xaml.cs",
+              "RelativeDocumentMoniker": "GattileWPF\\WindowAdozioni.xaml.cs",
+              "ToolTip": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\WindowAdozioni.xaml.cs",
+              "RelativeToolTip": "GattileWPF\\WindowAdozioni.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAApwBcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:47:02.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WindowAdottanti.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\WindowAdottanti.xaml.cs",
+              "RelativeDocumentMoniker": "GattileWPF\\WindowAdottanti.xaml.cs",
+              "ToolTip": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\WindowAdottanti.xaml.cs",
+              "RelativeToolTip": "GattileWPF\\WindowAdottanti.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:05:14.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Adozione.cs",
+              "DocumentMoniker": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileLIB\\Adozione.cs",
+              "RelativeDocumentMoniker": "GattileLIB\\Adozione.cs",
+              "ToolTip": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileLIB\\Adozione.cs",
+              "RelativeToolTip": "GattileLIB\\Adozione.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:58:42.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Adottante.cs",
+              "DocumentMoniker": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileLIB\\Adottante.cs",
+              "RelativeDocumentMoniker": "GattileLIB\\Adottante.cs",
+              "ToolTip": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileLIB\\Adottante.cs",
+              "RelativeToolTip": "GattileLIB\\Adottante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:58:41.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "STAT.cs",
+              "DocumentMoniker": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileLIB\\STAT.cs",
+              "RelativeDocumentMoniker": "GattileLIB\\STAT.cs",
+              "ToolTip": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileLIB\\STAT.cs",
+              "RelativeToolTip": "GattileLIB\\STAT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:02:13.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WindowAdozioni.xaml",
+              "DocumentMoniker": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\WindowAdozioni.xaml",
+              "RelativeDocumentMoniker": "GattileWPF\\WindowAdozioni.xaml",
+              "ToolTip": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\WindowAdozioni.xaml",
+              "RelativeToolTip": "GattileWPF\\WindowAdozioni.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-19T15:07:25.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WindowAdottanti.xaml",
+              "DocumentMoniker": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\WindowAdottanti.xaml",
+              "RelativeDocumentMoniker": "GattileWPF\\WindowAdottanti.xaml",
+              "ToolTip": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\WindowAdottanti.xaml",
+              "RelativeToolTip": "GattileWPF\\WindowAdottanti.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-19T15:33:47.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GattileWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\MainWindow.xaml",
+              "RelativeToolTip": "GattileWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-19T15:32:57.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WindowAggiungiAdozione.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\WindowAggiungiAdozione.xaml.cs",
+              "RelativeDocumentMoniker": "GattileWPF\\WindowAggiungiAdozione.xaml.cs",
+              "ToolTip": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\WindowAggiungiAdozione.xaml.cs",
+              "RelativeToolTip": "GattileWPF\\WindowAggiungiAdozione.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswCYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:20:13.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WindowAggiungiAdottante.xaml",
+              "DocumentMoniker": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\WindowAggiungiAdottante.xaml",
+              "RelativeDocumentMoniker": "GattileWPF\\WindowAggiungiAdottante.xaml",
+              "ToolTip": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\WindowAggiungiAdottante.xaml",
+              "RelativeToolTip": "GattileWPF\\WindowAggiungiAdottante.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-19T15:33:30.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WindowAggiungiGatto.xaml",
+              "DocumentMoniker": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\WindowAggiungiGatto.xaml",
+              "RelativeDocumentMoniker": "GattileWPF\\WindowAggiungiGatto.xaml",
+              "ToolTip": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\WindowAggiungiGatto.xaml",
+              "RelativeToolTip": "GattileWPF\\WindowAggiungiGatto.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-19T15:45:25.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WindowGatti.xaml",
+              "DocumentMoniker": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\WindowGatti.xaml",
+              "RelativeDocumentMoniker": "GattileWPF\\WindowGatti.xaml",
+              "ToolTip": "C:\\Users\\XD\\Desktop\\GattileWPF\\GattileWPF\\WindowGatti.xaml",
+              "RelativeToolTip": "GattileWPF\\WindowGatti.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-19T16:01:15.37Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

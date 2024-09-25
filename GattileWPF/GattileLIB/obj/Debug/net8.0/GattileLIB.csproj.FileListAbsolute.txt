@@ -1,0 +1,11 @@
+C:\Users\XD\Desktop\GattileWPF\GattileLIB\bin\Debug\net8.0\GattileLIB.deps.json
+C:\Users\XD\Desktop\GattileWPF\GattileLIB\bin\Debug\net8.0\GattileLIB.dll
+C:\Users\XD\Desktop\GattileWPF\GattileLIB\bin\Debug\net8.0\GattileLIB.pdb
+C:\Users\XD\Desktop\GattileWPF\GattileLIB\obj\Debug\net8.0\GattileLIB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XD\Desktop\GattileWPF\GattileLIB\obj\Debug\net8.0\GattileLIB.AssemblyInfoInputs.cache
+C:\Users\XD\Desktop\GattileWPF\GattileLIB\obj\Debug\net8.0\GattileLIB.AssemblyInfo.cs
+C:\Users\XD\Desktop\GattileWPF\GattileLIB\obj\Debug\net8.0\GattileLIB.csproj.CoreCompileInputs.cache
+C:\Users\XD\Desktop\GattileWPF\GattileLIB\obj\Debug\net8.0\GattileLIB.dll
+C:\Users\XD\Desktop\GattileWPF\GattileLIB\obj\Debug\net8.0\refint\GattileLIB.dll
+C:\Users\XD\Desktop\GattileWPF\GattileLIB\obj\Debug\net8.0\GattileLIB.pdb
+C:\Users\XD\Desktop\GattileWPF\GattileLIB\obj\Debug\net8.0\ref\GattileLIB.dll

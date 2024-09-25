@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SessioniAllenamento/1.0.0": {
+        "dependencies": {
+          "SessioniAllenamentoLIB": "1.0.0"
+        },
+        "runtime": {
+          "SessioniAllenamento.dll": {}
+        }
+      },
+      "SessioniAllenamentoLIB/1.0.0": {
+        "runtime": {
+          "SessioniAllenamentoLIB.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SessioniAllenamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SessioniAllenamentoLIB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

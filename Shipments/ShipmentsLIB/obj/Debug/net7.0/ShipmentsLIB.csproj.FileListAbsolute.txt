@@ -1,0 +1,12 @@
+/home/potbush/Documenti/GitHub/CsharpExercises/Shipments/ShipmentsLIB/bin/Debug/net7.0/ShipmentsLIB.deps.json
+/home/potbush/Documenti/GitHub/CsharpExercises/Shipments/ShipmentsLIB/bin/Debug/net7.0/ShipmentsLIB.dll
+/home/potbush/Documenti/GitHub/CsharpExercises/Shipments/ShipmentsLIB/bin/Debug/net7.0/ShipmentsLIB.pdb
+/home/potbush/Documenti/GitHub/CsharpExercises/Shipments/ShipmentsLIB/obj/Debug/net7.0/ShipmentsLIB.csproj.AssemblyReference.cache
+/home/potbush/Documenti/GitHub/CsharpExercises/Shipments/ShipmentsLIB/obj/Debug/net7.0/ShipmentsLIB.GeneratedMSBuildEditorConfig.editorconfig
+/home/potbush/Documenti/GitHub/CsharpExercises/Shipments/ShipmentsLIB/obj/Debug/net7.0/ShipmentsLIB.AssemblyInfoInputs.cache
+/home/potbush/Documenti/GitHub/CsharpExercises/Shipments/ShipmentsLIB/obj/Debug/net7.0/ShipmentsLIB.AssemblyInfo.cs
+/home/potbush/Documenti/GitHub/CsharpExercises/Shipments/ShipmentsLIB/obj/Debug/net7.0/ShipmentsLIB.csproj.CoreCompileInputs.cache
+/home/potbush/Documenti/GitHub/CsharpExercises/Shipments/ShipmentsLIB/obj/Debug/net7.0/ShipmentsLIB.dll
+/home/potbush/Documenti/GitHub/CsharpExercises/Shipments/ShipmentsLIB/obj/Debug/net7.0/refint/ShipmentsLIB.dll
+/home/potbush/Documenti/GitHub/CsharpExercises/Shipments/ShipmentsLIB/obj/Debug/net7.0/ShipmentsLIB.pdb
+/home/potbush/Documenti/GitHub/CsharpExercises/Shipments/ShipmentsLIB/obj/Debug/net7.0/ref/ShipmentsLIB.dll

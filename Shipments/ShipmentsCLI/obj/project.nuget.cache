@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ot5HlNDKSnnAXlOQ6pCTj6ALZMorq2yfNMfu5BoVvO6VJ6JSVaOMTUAW7wL7nrA68gy7YxGTzxIzSw0zwFImNA==",
+  "success": true,
+  "projectFilePath": "/home/potbush/Documenti/GitHub/CsharpExercises/Shipments/ShipmentsCLI/ShipmentsCLI.csproj",
+  "expectedPackageFiles": [
+    "/home/potbush/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

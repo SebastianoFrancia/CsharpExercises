@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipmentsLIB", "ShipmentsLIB\ShipmentsLIB.csproj", "{AC38B6F2-C5E2-47D1-9D2A-E770DD781490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipmentsCLI", "ShipmentsCLI\ShipmentsCLI.csproj", "{4FB59D85-9AD6-4076-8A51-897F6D3F3102}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipmentsTest", "ShipmentsTest\ShipmentsTest.csproj", "{B9C33BA0-43B3-4AE6-8184-BA9F701C72CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC38B6F2-C5E2-47D1-9D2A-E770DD781490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC38B6F2-C5E2-47D1-9D2A-E770DD781490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC38B6F2-C5E2-47D1-9D2A-E770DD781490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC38B6F2-C5E2-47D1-9D2A-E770DD781490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FB59D85-9AD6-4076-8A51-897F6D3F3102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB59D85-9AD6-4076-8A51-897F6D3F3102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB59D85-9AD6-4076-8A51-897F6D3F3102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB59D85-9AD6-4076-8A51-897F6D3F3102}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9C33BA0-43B3-4AE6-8184-BA9F701C72CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C33BA0-43B3-4AE6-8184-BA9F701C72CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C33BA0-43B3-4AE6-8184-BA9F701C72CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C33BA0-43B3-4AE6-8184-BA9F701C72CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
